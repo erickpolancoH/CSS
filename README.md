@@ -108,7 +108,7 @@ precio:900.00
 	<h2>Categoria de Alimemtos</h2>
 			
 
-<!-- cada vez que quieras modificar tu html tendras que subir tanto el archibo, como copiarlo en el readme!>
+<!-- cada vez que quieras modificar tu html tendras que subir tanto el archibo, como copiarlo en el readme!-->
 	
 	
 	</body>
