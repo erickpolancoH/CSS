@@ -1,0 +1,66 @@
+body {
+	background-color:#FFA9BACO;
+	margin: 1%;
+	padding: 2%;
+}
+
+
+	h1{
+	color:white;
+	background-color:orange;
+	border-radius:50px;
+	fot-family:bold;
+	font-weight:bold;
+	
+	padding:1%;
+	margin:2%;
+	}
+	
+	h2{
+	color:white;
+	background-color:#673AB7;
+	border-radius:50px;
+	fot-family:bold;
+	font-weight:bold;
+	padding:1%;
+	margin:4%;
+	}
+	
+	.green{
+	color:white;
+	background-color:#558B2F;
+	border-radius:50px;
+	fot-family: bold ;
+	font-weight:bold;
+	font-size:20px;
+	padding:2%;
+	margin:2%;
+	
+	}
+	
+		.red{
+	color:white;
+	background-color:#7b180d ;
+	color:white;
+	border-radius:50px;
+	fot-family: bold ;
+	font-weight:bold;
+	font-size:20px;
+	padding:2%;
+	margin:2%;
+	
+	}
+	
+	
+	
+	.limit{
+	margin:1%;
+	padding:2%;
+	}
+	
+	hr{
+	border:1px solid;
+	}
+	
+	
+	
