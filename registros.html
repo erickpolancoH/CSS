@@ -103,6 +103,9 @@ precio:900.00
 	<div class="limit"><span class="red">quedan 50 unidades de Humalog!...</span>
 	</div>
 	
+	<hr>
+	
+	<h2>Categoria de Alimemtos</h2>
 			
 
 
