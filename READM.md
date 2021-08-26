@@ -1,4 +1,3 @@
-# administrador.objetos.html
 <!DOCTYPE html>
 <html>
 	<head>
