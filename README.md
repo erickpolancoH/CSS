@@ -4,8 +4,7 @@
 		<title>Administrador de cajas</title>
 		
 		<LINK REL=StyleSheet href="registros.css" type="text/css" media=screen>
-		
-		<script src="botones.js"></script>
+					
 	</head>
 	<body>
 	
@@ -100,12 +99,15 @@ precio:900.00
 
 
 
-	<div class="limit"><span class="red">quedan 50 unidades de Humalog!...</span>
+	<div class="limit"><span class="yellow">quedan 50 unidades de Humalog!...</span>
 	</div>
 	
 	<hr>
 	
-	<h2>Categoria de Alimemtos</h2>
+	<h2>Cuentas hover::</h2>
+	
+
+
 			
 
 <!-- cada vez que quieras modificar tu html tendras que subir tanto el archibo, como copiarlo en el readme!-->
