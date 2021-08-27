@@ -99,12 +99,12 @@ precio:900.00
 
 
 
-	<div class="limit"><span class="yellow">quedan 50 unidades de Humalog!...</span>
+	<strong> quedan 50 unidades de humalog!...</strong>
 	</div>
 	
 	<hr>
 	
-	<h2>Cuentas hover::</h2>
+	<h2>cuentas hover::</h2>
 	
 
 
