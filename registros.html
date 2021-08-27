@@ -100,7 +100,7 @@ precio:900.00
 
 
 	<strong> quedan 50 unidades de humalog!...</strong>
-	</div>
+	
 	
 	<hr>
 	
