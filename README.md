@@ -10,8 +10,6 @@
 	</head>
 	<body>
 			
-					<img class="logo" src="Registros.jpg" height="250px"></img>
-			
 			
 	<h1> Administrador de cajas</h1>
 
