@@ -5,6 +5,15 @@ body {
 }
 
 
+.logo{
+
+background-image:url(registros.jpg)
+height:250px;
+weight:auto;
+
+}
+
+
 	h1{
 	color:white;
 	background-color:orange;
@@ -35,7 +44,7 @@ body {
 	font-size:16px;
 	padding:2%;
 	margin:2%;
-	margin-bottom:20%;
+	margin-bottom:2%;
 	
 	}
 	
@@ -51,9 +60,9 @@ body {
 	
 	
 
-	.yellow{
+	.red{
 	color:white;
-	background-color:#dc9770;
+	background-color:red;
 	border-radius:50px;
 	fot-family: bold ;
 	font-weight:bold;
@@ -81,6 +90,12 @@ body {
 	
 	
 	
-	//hovers y evectos.
+		
+
+	
+	
+	
+	
+	//talonarios.
 	
 
