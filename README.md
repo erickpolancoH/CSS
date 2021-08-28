@@ -89,13 +89,6 @@
 
 <hr>
 
-
-<div class="limit">
-	<strong class="red"> quedan 50 unidades de humalog!...</strong>
-	</div>
-	
-	
-	<hr>
 	
 	<h2>cuentas especiales</h2>
 	
