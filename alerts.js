@@ -1,7 +1,7 @@
 		// boton de cuentas.
 		function showmsg (){
 		
-				window.alert("el lote minimo para el abiso es de 50");
+				window.alert("el lote minimo para el aviso es de 50");
 		
 		
 }
