@@ -5,26 +5,30 @@
 		
 		<LINK REL=StyleSheet href="registros.css" type="text/css" media=screen>
 					
+		<script src="alerts.js"></script>
+		
 	</head>
 	<body>
-	
-	
-	
+			
+					<img class="logo" src="Registros.jpg" height="250px"></img>
+			
+			
 	<h1> Administrador de cajas</h1>
+
+	
 	<hr>
 	<h2>cajas de medicamentos</h2>
+	
+	
+	
 	<!--linea de productos-->
 <div class="limit">
-<span class="green">
-diclofenac
-</span>
-<span class="green">
-unit:200
-</span>
 
-<span class="green">
-precio:80.00
-</span>
+<div class="green">diclofenac</div>
+
+<div class="green">unit:200</div>
+
+<div class="green">precio:80.00</div >
 
 </div>
 
@@ -33,48 +37,38 @@ precio:80.00
 
 
 <div class="limit">
-<span class="green">
-Diclofenac compuesto 300ml
-</span>
-<span class="green">
-unit:200
-</span>
 
-<span class="green">
-precio:180.00
-</span>
+
+<div class="green">Diclofenac compuesto 300ml</div>
+
+<div class="green">unit:200</div>
+
+<div class="green">precio:180.00</div>
 
 </div>
 
 <hr>
 
 <div class="limit">
-<span class="green">
-Clotrinazol 200ml
-</span>
-<span class="green">
-Unit:200
-</span>
 
-<span class="green">
-Precio:80.00
-</span>
+
+<div class="green">Clotrinazol 200ml</div>
+
+<div class="green">Unit:200</div>
+
+<div class="green">Precio:80.00</div>
 
 </div>
 
 <hr>
 
 <div class="limit">
-<span class="green">
-hidroneomicina 8ml
-</span>
-<span class="green">
-unit:80
-</span>
 
-<span class="green">
-precio:69.00
-</span>
+<div class="green">hidroneomicina 8.ml</div>
+
+<div class="green">unit:80</div>
+
+<div class="green">precio:69.00</div>
 
 </div>
 
@@ -82,29 +76,31 @@ precio:69.00
 
 
 <div class="limit">
-<span class="green">
-Humalog 500ml
-</span>
-<span class="green">
-unit:50
-</span>
 
-<span class="green">
-precio:900.00
-</span>
+
+<div class="green">Humalog500ml</div>
+
+
+<div class="green">unit:50</div>
+
+<div class="green">precio:900.00</div>
 
 </div>
 
 <hr>
 
 
-
-	<strong> quedan 50 unidades de humalog!...</strong>
+<div class="limit">
+	<strong class="red"> quedan 50 unidades de humalog!...</strong>
+	</div>
 	
 	
 	<hr>
 	
-	<h2>cuentas hover::</h2>
+	<h2>cuentas especiales</h2>
+	
+	<hr>
+
 	
 
 
